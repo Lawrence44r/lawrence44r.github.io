@@ -87,7 +87,7 @@ menu:
       weight: 6
     - identifier: blog
       name: ✍️ Blog
-      url: https://sec-fortress.github.io/
+      url: https://lawrence44r.github.io/
       weight: 6
 
 pygmentsUseClasses: true
