@@ -9,11 +9,25 @@
     <lastBuildDate>Mon, 23 Dec 2024 17:05:43 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My_First_Blog</title>
+      <title>My First Blog</title>
       <link>http://localhost:1313/hacking/my_first_blog/</link>
       <pubDate>Mon, 23 Dec 2024 17:05:43 -0600</pubDate>
       <guid>http://localhost:1313/hacking/my_first_blog/</guid>
-      <description></description>
+      <description>&lt;h1 id=&#34;this-is-the-first-heading&#34;&gt;This is the first heading&lt;/h1&gt;
+&lt;h2 id=&#34;this-heading-would-be-smaller&#34;&gt;This heading would be smaller&lt;/h2&gt;
+&lt;h3 id=&#34;this-would-be-more-smaller&#34;&gt;This would be more smaller&lt;/h3&gt;
+&lt;h4 id=&#34;this-would-be-way-more-smaller&#34;&gt;This would be way more smaller&lt;/h4&gt;
+&lt;h5 id=&#34;very-very-small-i-think&#34;&gt;very very small, i think&lt;/h5&gt;
+&lt;h6 id=&#34;this-is-the-last-smaller-than-you-think-&#34;&gt;This is the last, smaller than you think :)&lt;/h6&gt;
+&lt;p&gt;&lt;strong&gt;This text would be bold&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This text would be in an italic format&lt;/em&gt;&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;# This is a code block
+&amp;gt; whoami
+git add . # create a push point
+git commit -m &amp;#39;a&amp;#39; # Leave a message
+git push # push code
+&lt;/code&gt;&lt;/pre&gt;&lt;blockquote&gt;
+&lt;p&gt;This is a block of texts&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

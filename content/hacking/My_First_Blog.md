@@ -31,9 +31,6 @@ git push # push code
 ```
 
 
-> This is a block of texts
-
-
 
 
 
