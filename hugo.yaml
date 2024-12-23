@@ -101,4 +101,4 @@ outputs:
         - RSS
         - JSON # is necessary
 
-ignoreErrors: ["error-remote-getjson"]  #yml or ignoreErrors = ["error-remote-getjson"]
+ignoreErrors: ["error-remote-getjson"]  #yml
