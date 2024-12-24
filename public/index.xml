@@ -6,8 +6,36 @@
     <description>Recent content on Lawrence44r</description>
     <generator>Hugo -- 0.140.1</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Dec 2024 17:05:43 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 20:59:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I Got Into Cybersecurity</title>
+      <link>http://localhost:1313/hacking/how_i_got_into_cybersecurity/</link>
+      <pubDate>Tue, 24 Dec 2024 20:59:00 +0000</pubDate>
+      <guid>http://localhost:1313/hacking/how_i_got_into_cybersecurity/</guid>
+      <description>&lt;h1 id=&#34;here-is-how-i-got-into-cybersecurity&#34;&gt;Here is how I got into Cybersecurity&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Started From Networking&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Interests and Strengths&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Myths&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Challenges (Financial)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Job Market&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Skill Gaps&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&#34;This is the first image&#34; loading=&#34;lazy&#34; src=&#34;https://i.imgur.com/3fUnogX.jpeg#center&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My First Blog</title>
       <link>http://localhost:1313/hacking/my_first_blog/</link>
@@ -26,8 +54,7 @@
 git add . # create a push point
 git commit -m &amp;#39;a&amp;#39; # Leave a message
 git push # push code
-&lt;/code&gt;&lt;/pre&gt;&lt;blockquote&gt;
-&lt;p&gt;This is a block of texts&lt;/p&gt;</description>
+&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
   </channel>
 </rss>

@@ -17,6 +17,6 @@ date= 2024-12-24T20:59:00Z
 
 - Skill Gaps
 
-
+![This is the first image](https://i.imgur.com/3fUnogX.jpeg#center)
 
 
