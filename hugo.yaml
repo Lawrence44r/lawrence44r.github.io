@@ -28,6 +28,7 @@ params:
   hideSummary: true
   showtoc: true
   tocopen: false
+  
 
   label:
     text: "Lawrence44r"
@@ -102,3 +103,4 @@ outputs:
         - JSON # is necessary
 
 ignoreErrors: ["error-remote-getjson"]  #yml
+ignoreLogs: ['warning-partial-superfluous-prefix']
